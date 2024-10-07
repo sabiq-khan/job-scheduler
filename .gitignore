@@ -1,0 +1,16 @@
+.env*
+
+__pycache__/
+
+bin/
+lib/
+lib64*
+include/
+pyvenv.cfg
+
+dist/
+build/
+*.egg-info
+
+*.log
+*.csv
